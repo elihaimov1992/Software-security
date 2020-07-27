@@ -4,9 +4,10 @@
 
 
 ## Introduction
-Our goal is to create an app that helps users choose a suit and see how it looks on them before buying it.
-The Suiter application will allow the user to choose a suit for himself and see how it will look on him. The user will provide a front view photograph of himself and 
-choose colors for the suit, and the application will draw the suit on top of him accordingly.
+ * Project goal: Our goal is to create an app that helps users choose a suit and see how it looks on them before buying it.
+
+ * The Suiter application will allow the user to choose a suit for himself and see how it will look on him. The user will provide a front view photograph of himself and 
+   choose colors for the suit, and the application will draw the suit on top of him accordingly.
 
 
 ## Table of contents
@@ -40,7 +41,7 @@ To integrate algorithms in Android Studio, you need to:
 
 ## Author
 
-* **Eli Haimov (ID. 308019306)** - *Team leader and Programmer*
+* **Eli Haimov (ID. 308019306)** - *Programmer*
 * **Yosi Golubchik (ID. 209195353)** - *Programmer*
 
 
