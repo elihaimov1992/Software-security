@@ -1,4 +1,4 @@
-<a href="https://github.com/elihaimov1992/SuiterFinalProject"><img src="https://github.com/elihaimov1992/SuiterFinalProject/blob/master/Suiter_logo_512.png" title="FVCproductions" alt="FVCproductions"></a>
+<a href="https://github.com/elihaimov1992/SuiterFinalProject"><img src="https://github.com/elihaimov1992/SuiterFinalProject/blob/master/Suiter_logo_512.png" title="Suiter - Final Project" alt="Suiter - Final Project"></a>
 
 # Suiter - Final Project
 
